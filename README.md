@@ -21,6 +21,7 @@ I build fast, scalable web apps end to end — frontend *and* backend, so client
 <br/>
 <a href="https://basitdevs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2D7FF9?style=for-the-badge&logo=vercel&logoColor=white" height="34" /></a>
 <a href="mailto:abdulbasitcodex@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" /></a>
+<a href="https://www.quickimagefix.com/en"><img src="https://img.shields.io/badge/Free%20Image%20Tools-5A7A2C?style=for-the-badge" height="34" alt="QuickImageFix - free online image tools" /></a>
 
 </td>
 <td width="42%" valign="middle" align="center">
@@ -51,6 +52,7 @@ I build fast, scalable web apps end to end — frontend *and* backend, so client
 | 🩺 **[TrueDoc](https://www.truedoc.com.br/)** | Doctor & appointment management platform used in production | Next.js · Supabase · Tailwind |
 | 🎬 **[Construct-Anim](https://construct-anim.vercel.app/)** | Scroll-driven & Lottie animation showcase | Next.js · GSAP · Lottie |
 | ✨ **[The Gag](https://the-gag-website.vercel.app/)** | Animated landing page with fluid, cinematic motion | Next.js · GSAP |
+| 🖼️ **[QuickImageFix](https://www.quickimagefix.com/en)** | Free online image tools — compress, convert, resize, crop and remove backgrounds | Next.js · Tailwind |
 
 <br/>
 
